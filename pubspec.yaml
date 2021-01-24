@@ -1,0 +1,16 @@
+name: provider_get_it_example
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.3.2+3
+  dio: ^3.0.10
+  get_it: ^5.0.3
+
+flutter:
+  uses-material-design: true
